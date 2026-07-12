@@ -4,49 +4,51 @@
 
 - Difficulty: Easy
 - Language: cpp
-- Runtime: 4 ms Beats 51.58%
-- Memory: 14.84 MB Beats 37.66%
+- Runtime: 2 ms Beats 72.43%
+- Memory: 14.77 MB Beats 55.16%
 
 ---
 
 ## Problem Description
 
-Given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`*.
+Given an array of integers `nums` and an integer `target`, return *indices of the two numbers such that they add up to `target`*.
 
 You may assume that each input would have ***exactly* one solution**, and you may not use the *same* element twice.
 
 You can return the answer in any order.
 
-**Example 1:**
+## Example 1
 
-```
+```text
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
 
-**Example 2:**
+## Example 2
 
-```
+```text
 Input: nums = [3,2,4], target = 6
 Output: [1,2]
 ```
 
-**Example 3:**
+## Example 3
 
-```
+```text
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-**Constraints:**
+## Constraints
 
-	- `2 <= nums.length <= 10<sup>4</sup>`
+	- 2 <= nums.length <= 10⁴
 
-	- `-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>`
+	- -10⁹ <= nums[i] <= 10⁹
 
-	- `-10<sup>9</sup> <= target <= 10<sup>9</sup>`
+	- -10⁹ <= target <= 10⁹
 
-	- **Only one valid answer exists.**
+	- Only one valid answer exists.
 
-**Follow-up: **Can you come up with an algorithm that is less than `O(n<sup>2</sup>)` time complexity?
+## Follow-up
+
+Can you come up with an algorithm that is less than O(n²) time complexity?
