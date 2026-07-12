@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 1331. Rank Transform of an Array
+## 1. Two Sum
 
 ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
