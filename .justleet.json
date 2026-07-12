@@ -10,11 +10,11 @@
         "cpp": 2
     },
     "latest": {
-        "number": "1331",
-        "title": "Rank Transform of an Array",
+        "number": "1",
+        "title": "Two Sum",
         "difficulty": "Easy",
         "language": "cpp",
-        "folder": "1331_Rank_Transform_of_an_Array"
+        "folder": "0001_Two_Sum"
     },
     "problems": [
         {
