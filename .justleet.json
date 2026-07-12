@@ -1,0 +1,28 @@
+{
+    "version": "1.0",
+    "stats": {
+        "total": 1,
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+    },
+    "languages": {
+        "cpp": 1
+    },
+    "latest": {
+        "number": "1",
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "language": "cpp",
+        "folder": "0001_Two_Sum"
+    },
+    "problems": [
+        {
+            "number": 1,
+            "title": "Two Sum",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "0001_Two_Sum"
+        }
+    ]
+}
