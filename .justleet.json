@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 2,
+        "total": 3,
         "easy": 2,
-        "medium": 0,
+        "medium": 1,
         "hard": 0
     },
     "languages": {
-        "cpp": 2
+        "cpp": 3
     },
     "latest": {
-        "number": "1",
-        "title": "Two Sum",
-        "difficulty": "Easy",
+        "number": "1291",
+        "title": "Sequential Digits",
+        "difficulty": "Medium",
         "language": "cpp",
-        "folder": "0001_Two_Sum"
+        "folder": "1291_Sequential_Digits"
     },
     "problems": [
         {
@@ -23,6 +23,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0001_Two_Sum"
+        },
+        {
+            "number": 1291,
+            "title": "Sequential Digits",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "1291_Sequential_Digits"
         },
         {
             "number": 1331,
