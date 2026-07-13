@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-2-2F81F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-3-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-## 1. Two Sum
+## 1291. Sequential Digits
 
-![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
 </div>
 
@@ -48,6 +48,7 @@
 | # | Problem | Difficulty | Language |
 |:-:|:--------|:----------:|:--------:|
 | 1 | [Two Sum](./0001_Two_Sum) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
+| 1291 | [Sequential Digits](./1291_Sequential_Digits) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 1331 | [Rank Transform of an Array](./1331_Rank_Transform_of_an_Array) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 
 </div>
