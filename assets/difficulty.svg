@@ -8,7 +8,7 @@ viewBox="0 0 820 155">
 
 <path
 d="
-M 308.952855613763 18.009138290616526
+M 258.56996195787326 108.90228449460326
 A 60 60 0 1 0 311.047144386237 18.009138290616526
 "
 fill="none"
@@ -16,6 +16,16 @@ stroke="#1cbaba"
 stroke-width="26"
 stroke-linecap="butt"/>
 
+
+<path
+d="
+M 308.952855613763 18.009138290616526
+A 60 60 0 0 0 257.52281757163627 107.08857721478023
+"
+fill="none"
+stroke="#FFb700"
+stroke-width="26"
+stroke-linecap="butt"/>
 
 
 
@@ -27,7 +37,7 @@ font-size="30"
 font-weight="700"
 font-family="Segoe UI, Arial"
 fill="#6e7781">
-2
+3
 </text>
 
 <text
@@ -73,7 +83,7 @@ font-size="16"
 font-weight="700"
 font-family="Segoe UI, Arial"
 fill="#6e7781">
-0
+1
 </text>
 
 <circle cx="479" cy="115" r="6" fill="#f63737"/>
