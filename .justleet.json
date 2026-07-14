@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 4,
-        "easy": 2,
+        "total": 5,
+        "easy": 3,
         "medium": 2,
         "hard": 0
     },
     "languages": {
-        "cpp": 4
+        "cpp": 5
     },
     "latest": {
-        "number": "289",
-        "title": "Game of Life",
-        "difficulty": "Medium",
+        "number": "349",
+        "title": "Intersection of Two Arrays",
+        "difficulty": "Easy",
         "language": "cpp",
-        "folder": "0289_Game_of_Life"
+        "folder": "0349_Intersection_of_Two_Arrays"
     },
     "problems": [
         {
@@ -30,6 +30,13 @@
             "difficulty": "Medium",
             "language": "cpp",
             "folder": "0289_Game_of_Life"
+        },
+        {
+            "number": 349,
+            "title": "Intersection of Two Arrays",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "0349_Intersection_of_Two_Arrays"
         },
         {
             "number": 1291,
