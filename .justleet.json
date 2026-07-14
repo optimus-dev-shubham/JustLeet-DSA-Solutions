@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 3,
+        "total": 4,
         "easy": 2,
-        "medium": 1,
+        "medium": 2,
         "hard": 0
     },
     "languages": {
-        "cpp": 3
+        "cpp": 4
     },
     "latest": {
-        "number": "1291",
-        "title": "Sequential Digits",
+        "number": "289",
+        "title": "Game of Life",
         "difficulty": "Medium",
         "language": "cpp",
-        "folder": "1291_Sequential_Digits"
+        "folder": "0289_Game_of_Life"
     },
     "problems": [
         {
@@ -23,6 +23,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0001_Two_Sum"
+        },
+        {
+            "number": 289,
+            "title": "Game of Life",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "0289_Game_of_Life"
         },
         {
             "number": 1291,
