@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 6,
+        "total": 7,
         "easy": 4,
-        "medium": 2,
+        "medium": 3,
         "hard": 0
     },
     "languages": {
-        "cpp": 6
+        "cpp": 7
     },
     "latest": {
-        "number": "3658",
-        "title": "GCD of Odd and Even Sums",
-        "difficulty": "Easy",
+        "number": "3",
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
         "language": "cpp",
-        "folder": "3658_GCD_of_Odd_and_Even_Sums"
+        "folder": "0003_Longest_Substring_Without_Repeating_Characters"
     },
     "problems": [
         {
@@ -23,6 +23,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0001_Two_Sum"
+        },
+        {
+            "number": 3,
+            "title": "Longest Substring Without Repeating Characters",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "0003_Longest_Substring_Without_Repeating_Characters"
         },
         {
             "number": 289,
