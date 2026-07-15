@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 5,
-        "easy": 3,
+        "total": 6,
+        "easy": 4,
         "medium": 2,
         "hard": 0
     },
     "languages": {
-        "cpp": 5
+        "cpp": 6
     },
     "latest": {
-        "number": "349",
-        "title": "Intersection of Two Arrays",
+        "number": "3658",
+        "title": "GCD of Odd and Even Sums",
         "difficulty": "Easy",
         "language": "cpp",
-        "folder": "0349_Intersection_of_Two_Arrays"
+        "folder": "3658_GCD_of_Odd_and_Even_Sums"
     },
     "problems": [
         {
@@ -51,6 +51,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "1331_Rank_Transform_of_an_Array"
+        },
+        {
+            "number": 3658,
+            "title": "GCD of Odd and Even Sums",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "3658_GCD_of_Odd_and_Even_Sums"
         }
     ]
 }
