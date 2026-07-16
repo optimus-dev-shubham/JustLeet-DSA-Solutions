@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-7-2F81F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-8-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 3. Longest Substring Without Repeating Characters
+## 3867. Sum of GCD of Formed Pairs
 
 ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
@@ -54,6 +54,7 @@
 | 1291 | [Sequential Digits](./1291_Sequential_Digits) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 1331 | [Rank Transform of an Array](./1331_Rank_Transform_of_an_Array) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3658 | [GCD of Odd and Even Sums](./3658_GCD_of_Odd_and_Even_Sums) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
+| 3867 | [Sum of GCD of Formed Pairs](./3867_Sum_of_GCD_of_Formed_Pairs) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 
 </div>
 
