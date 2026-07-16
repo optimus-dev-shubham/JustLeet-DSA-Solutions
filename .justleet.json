@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 8,
-        "easy": 4,
+        "total": 9,
+        "easy": 5,
         "medium": 4,
         "hard": 0
     },
     "languages": {
-        "cpp": 8
+        "cpp": 9
     },
     "latest": {
-        "number": "3867",
-        "title": "Sum of GCD of Formed Pairs",
-        "difficulty": "Medium",
+        "number": "35",
+        "title": "Search Insert Position",
+        "difficulty": "Easy",
         "language": "cpp",
-        "folder": "3867_Sum_of_GCD_of_Formed_Pairs"
+        "folder": "0035_Search_Insert_Position"
     },
     "problems": [
         {
@@ -30,6 +30,13 @@
             "difficulty": "Medium",
             "language": "cpp",
             "folder": "0003_Longest_Substring_Without_Repeating_Characters"
+        },
+        {
+            "number": 35,
+            "title": "Search Insert Position",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "0035_Search_Insert_Position"
         },
         {
             "number": 289,
