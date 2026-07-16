@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 9,
+        "total": 10,
         "easy": 5,
-        "medium": 4,
+        "medium": 5,
         "hard": 0
     },
     "languages": {
-        "cpp": 9
+        "cpp": 10
     },
     "latest": {
-        "number": "35",
-        "title": "Search Insert Position",
-        "difficulty": "Easy",
+        "number": "62",
+        "title": "Unique Paths",
+        "difficulty": "Medium",
         "language": "cpp",
-        "folder": "0035_Search_Insert_Position"
+        "folder": "0062_Unique_Paths"
     },
     "problems": [
         {
@@ -37,6 +37,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0035_Search_Insert_Position"
+        },
+        {
+            "number": 62,
+            "title": "Unique Paths",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "0062_Unique_Paths"
         },
         {
             "number": 289,
