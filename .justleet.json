@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 10,
+        "total": 11,
         "easy": 5,
-        "medium": 5,
+        "medium": 6,
         "hard": 0
     },
     "languages": {
-        "cpp": 10
+        "cpp": 11
     },
     "latest": {
-        "number": "62",
-        "title": "Unique Paths",
+        "number": "6",
+        "title": "Zigzag Conversion",
         "difficulty": "Medium",
         "language": "cpp",
-        "folder": "0062_Unique_Paths"
+        "folder": "0006_Zigzag_Conversion"
     },
     "problems": [
         {
@@ -30,6 +30,13 @@
             "difficulty": "Medium",
             "language": "cpp",
             "folder": "0003_Longest_Substring_Without_Repeating_Characters"
+        },
+        {
+            "number": 6,
+            "title": "Zigzag Conversion",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "0006_Zigzag_Conversion"
         },
         {
             "number": 35,
