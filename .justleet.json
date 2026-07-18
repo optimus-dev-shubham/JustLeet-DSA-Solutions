@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 11,
-        "easy": 5,
+        "total": 12,
+        "easy": 6,
         "medium": 6,
         "hard": 0
     },
     "languages": {
-        "cpp": 11
+        "cpp": 12
     },
     "latest": {
-        "number": "6",
-        "title": "Zigzag Conversion",
-        "difficulty": "Medium",
+        "number": "1979",
+        "title": "Find Greatest Common Divisor of Array",
+        "difficulty": "Easy",
         "language": "cpp",
-        "folder": "0006_Zigzag_Conversion"
+        "folder": "1979_Find_Greatest_Common_Divisor_of_Array"
     },
     "problems": [
         {
@@ -79,6 +79,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "1331_Rank_Transform_of_an_Array"
+        },
+        {
+            "number": 1979,
+            "title": "Find Greatest Common Divisor of Array",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "1979_Find_Greatest_Common_Divisor_of_Array"
         },
         {
             "number": 3658,
