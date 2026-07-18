@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 12,
+        "total": 13,
         "easy": 6,
-        "medium": 6,
+        "medium": 7,
         "hard": 0
     },
     "languages": {
-        "cpp": 12
+        "cpp": 13
     },
     "latest": {
-        "number": "1979",
-        "title": "Find Greatest Common Divisor of Array",
-        "difficulty": "Easy",
+        "number": "50",
+        "title": "Pow(x, n)",
+        "difficulty": "Medium",
         "language": "cpp",
-        "folder": "1979_Find_Greatest_Common_Divisor_of_Array"
+        "folder": "0050_Pow(x,_n)"
     },
     "problems": [
         {
@@ -44,6 +44,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0035_Search_Insert_Position"
+        },
+        {
+            "number": 50,
+            "title": "Pow(x, n)",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "0050_Pow(x,_n)"
         },
         {
             "number": 62,
