@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1784306552197" width="100%"/>
+<img src="./assets/difficulty.svg?v=1784396380623" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-11-2F81F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-12-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-## 6. Zigzag Conversion
+## 1979. Find Greatest Common Divisor of Array
 
-![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
 </div>
 
@@ -56,6 +56,7 @@
 | 349 | [Intersection of Two Arrays](./0349_Intersection_of_Two_Arrays) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 1291 | [Sequential Digits](./1291_Sequential_Digits) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 1331 | [Rank Transform of an Array](./1331_Rank_Transform_of_an_Array) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
+| 1979 | [Find Greatest Common Divisor of Array](./1979_Find_Greatest_Common_Divisor_of_Array) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3658 | [GCD of Odd and Even Sums](./3658_GCD_of_Odd_and_Even_Sums) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3867 | [Sum of GCD of Formed Pairs](./3867_Sum_of_GCD_of_Formed_Pairs) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 
