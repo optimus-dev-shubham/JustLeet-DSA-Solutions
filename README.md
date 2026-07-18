@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1784396380623" width="100%"/>
+<img src="./assets/difficulty.svg?v=1784396592073" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-12-2F81F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-13-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-## 1979. Find Greatest Common Divisor of Array
+## 50. Pow(x, n)
 
-![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
 </div>
 
@@ -51,6 +51,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./0003_Longest_Substring_Without_Repeating_Characters) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 6 | [Zigzag Conversion](./0006_Zigzag_Conversion) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 35 | [Search Insert Position](./0035_Search_Insert_Position) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
+| 50 | [Pow(x, n)](./0050_Pow(x,_n)) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 62 | [Unique Paths](./0062_Unique_Paths) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 289 | [Game of Life](./0289_Game_of_Life) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 349 | [Intersection of Two Arrays](./0349_Intersection_of_Two_Arrays) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
