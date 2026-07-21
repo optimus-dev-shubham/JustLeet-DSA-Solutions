@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 13,
+        "total": 14,
         "easy": 6,
-        "medium": 7,
+        "medium": 8,
         "hard": 0
     },
     "languages": {
-        "cpp": 13
+        "cpp": 14
     },
     "latest": {
-        "number": "50",
-        "title": "Pow(x, n)",
+        "number": "3499",
+        "title": "Maximize Active Section with Trade I",
         "difficulty": "Medium",
         "language": "cpp",
-        "folder": "0050_Pow(x,_n)"
+        "folder": "3499_Maximize_Active_Section_with_Trade_I"
     },
     "problems": [
         {
@@ -93,6 +93,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "1979_Find_Greatest_Common_Divisor_of_Array"
+        },
+        {
+            "number": 3499,
+            "title": "Maximize Active Section with Trade I",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "3499_Maximize_Active_Section_with_Trade_I"
         },
         {
             "number": 3658,
