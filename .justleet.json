@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 15,
-        "easy": 7,
+        "total": 16,
+        "easy": 8,
         "medium": 8,
         "hard": 0
     },
     "languages": {
-        "cpp": 15
+        "cpp": 16
     },
     "latest": {
-        "number": "9",
-        "title": "Palindrome Number",
+        "number": "13",
+        "title": "Roman to Integer",
         "difficulty": "Easy",
         "language": "cpp",
-        "folder": "0009_Palindrome_Number"
+        "folder": "0013_Roman_to_Integer"
     },
     "problems": [
         {
@@ -44,6 +44,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0009_Palindrome_Number"
+        },
+        {
+            "number": 13,
+            "title": "Roman to Integer",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "0013_Roman_to_Integer"
         },
         {
             "number": 35,
