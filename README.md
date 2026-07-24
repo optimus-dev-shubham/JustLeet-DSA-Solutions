@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1784926058469" width="100%"/>
+<img src="./assets/difficulty.svg?v=1784926637258" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-19-2F81F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-20-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-## 39. Combination Sum
+## 28. Find the Index of the First Occurrence in a String
 
-![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
 </div>
 
@@ -53,6 +53,7 @@
 | 9 | [Palindrome Number](./0009_Palindrome_Number) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 13 | [Roman to Integer](./0013_Roman_to_Integer) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 15 | [3Sum](./0015_3Sum) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
+| 28 | [Find the Index of the First Occurrence in a String](./0028_Find_the_Index_of_the_First_Occurrence_in_a_String) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 35 | [Search Insert Position](./0035_Search_Insert_Position) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 39 | [Combination Sum](./0039_Combination_Sum) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 42 | [Trapping Rain Water](./0042_Trapping_Rain_Water) | ![Hard](https://img.shields.io/badge/Hard-f63737?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
