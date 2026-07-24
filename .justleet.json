@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 19,
-        "easy": 8,
+        "total": 20,
+        "easy": 9,
         "medium": 10,
         "hard": 1
     },
     "languages": {
-        "cpp": 19
+        "cpp": 20
     },
     "latest": {
-        "number": "39",
-        "title": "Combination Sum",
-        "difficulty": "Medium",
+        "number": "28",
+        "title": "Find the Index of the First Occurrence in a String",
+        "difficulty": "Easy",
         "language": "cpp",
-        "folder": "0039_Combination_Sum"
+        "folder": "0028_Find_the_Index_of_the_First_Occurrence_in_a_String"
     },
     "problems": [
         {
@@ -58,6 +58,13 @@
             "difficulty": "Medium",
             "language": "cpp",
             "folder": "0015_3Sum"
+        },
+        {
+            "number": 28,
+            "title": "Find the Index of the First Occurrence in a String",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "0028_Find_the_Index_of_the_First_Occurrence_in_a_String"
         },
         {
             "number": 35,
