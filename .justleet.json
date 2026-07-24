@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 18,
+        "total": 19,
         "easy": 8,
-        "medium": 9,
+        "medium": 10,
         "hard": 1
     },
     "languages": {
-        "cpp": 18
+        "cpp": 19
     },
     "latest": {
-        "number": "15",
-        "title": "3Sum",
+        "number": "39",
+        "title": "Combination Sum",
         "difficulty": "Medium",
         "language": "cpp",
-        "folder": "0015_3Sum"
+        "folder": "0039_Combination_Sum"
     },
     "problems": [
         {
@@ -65,6 +65,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0035_Search_Insert_Position"
+        },
+        {
+            "number": 39,
+            "title": "Combination Sum",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "0039_Combination_Sum"
         },
         {
             "number": 42,
