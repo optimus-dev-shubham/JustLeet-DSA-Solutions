@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 17,
+        "total": 18,
         "easy": 8,
-        "medium": 8,
+        "medium": 9,
         "hard": 1
     },
     "languages": {
-        "cpp": 17
+        "cpp": 18
     },
     "latest": {
-        "number": "42",
-        "title": "Trapping Rain Water",
-        "difficulty": "Hard",
+        "number": "15",
+        "title": "3Sum",
+        "difficulty": "Medium",
         "language": "cpp",
-        "folder": "0042_Trapping_Rain_Water"
+        "folder": "0015_3Sum"
     },
     "problems": [
         {
@@ -51,6 +51,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0013_Roman_to_Integer"
+        },
+        {
+            "number": 15,
+            "title": "3Sum",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "0015_3Sum"
         },
         {
             "number": 35,
