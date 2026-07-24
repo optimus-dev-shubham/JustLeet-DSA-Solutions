@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 14,
-        "easy": 6,
+        "total": 15,
+        "easy": 7,
         "medium": 8,
         "hard": 0
     },
     "languages": {
-        "cpp": 14
+        "cpp": 15
     },
     "latest": {
-        "number": "3499",
-        "title": "Maximize Active Section with Trade I",
-        "difficulty": "Medium",
+        "number": "9",
+        "title": "Palindrome Number",
+        "difficulty": "Easy",
         "language": "cpp",
-        "folder": "3499_Maximize_Active_Section_with_Trade_I"
+        "folder": "0009_Palindrome_Number"
     },
     "problems": [
         {
@@ -37,6 +37,13 @@
             "difficulty": "Medium",
             "language": "cpp",
             "folder": "0006_Zigzag_Conversion"
+        },
+        {
+            "number": 9,
+            "title": "Palindrome Number",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "0009_Palindrome_Number"
         },
         {
             "number": 35,
