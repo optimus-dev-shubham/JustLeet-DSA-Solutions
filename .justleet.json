@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 20,
-        "easy": 9,
+        "total": 21,
+        "easy": 10,
         "medium": 10,
         "hard": 1
     },
     "languages": {
-        "cpp": 20
+        "cpp": 21
     },
     "latest": {
-        "number": "28",
-        "title": "Find the Index of the First Occurrence in a String",
+        "number": "3536",
+        "title": "Maximum Product of Two Digits",
         "difficulty": "Easy",
         "language": "cpp",
-        "folder": "0028_Find_the_Index_of_the_First_Occurrence_in_a_String"
+        "folder": "3536_Maximum_Product_of_Two_Digits"
     },
     "problems": [
         {
@@ -142,6 +142,13 @@
             "difficulty": "Medium",
             "language": "cpp",
             "folder": "3499_Maximize_Active_Section_with_Trade_I"
+        },
+        {
+            "number": 3536,
+            "title": "Maximum Product of Two Digits",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "3536_Maximum_Product_of_Two_Digits"
         },
         {
             "number": 3658,
