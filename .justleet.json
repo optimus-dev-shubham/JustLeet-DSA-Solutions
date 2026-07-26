@@ -10,11 +10,11 @@
         "cpp": 22
     },
     "latest": {
-        "number": "628",
-        "title": "Maximum Product of Three Numbers",
+        "number": "3536",
+        "title": "Maximum Product of Two Digits",
         "difficulty": "Easy",
         "language": "cpp",
-        "folder": "0628_Maximum_Product_of_Three_Numbers"
+        "folder": "3536_Maximum_Product_of_Two_Digits"
     },
     "problems": [
         {
