@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1785097329515" width="100%"/>
+<img src="./assets/difficulty.svg?v=1785097388219" width="100%"/>
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 628. Maximum Product of Three Numbers
+## 3536. Maximum Product of Two Digits
 
 ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
