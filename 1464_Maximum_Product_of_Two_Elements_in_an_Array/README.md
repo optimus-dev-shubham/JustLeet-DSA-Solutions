@@ -4,8 +4,8 @@
 
 - Difficulty: Easy
 - Language: cpp
-- Runtime: 3 ms Beats 20.55%
-- Memory: 13.55 MB Beats 25.65%
+- Runtime: 0 ms Beats 100.00%
+- Memory: 13.31 MB Beats 85.48%
 
 ---
 
