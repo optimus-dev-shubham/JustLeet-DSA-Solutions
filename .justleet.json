@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 22,
-        "easy": 11,
+        "total": 23,
+        "easy": 12,
         "medium": 10,
         "hard": 1
     },
     "languages": {
-        "cpp": 22
+        "cpp": 23
     },
     "latest": {
-        "number": "3536",
-        "title": "Maximum Product of Two Digits",
+        "number": "1464",
+        "title": "Maximum Product of Two Elements in an Array",
         "difficulty": "Easy",
         "language": "cpp",
-        "folder": "3536_Maximum_Product_of_Two_Digits"
+        "folder": "1464_Maximum_Product_of_Two_Elements_in_an_Array"
     },
     "problems": [
         {
@@ -135,6 +135,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "1331_Rank_Transform_of_an_Array"
+        },
+        {
+            "number": 1464,
+            "title": "Maximum Product of Two Elements in an Array",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "1464_Maximum_Product_of_Two_Elements_in_an_Array"
         },
         {
             "number": 1979,
