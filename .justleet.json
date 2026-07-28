@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 23,
+        "total": 24,
         "easy": 12,
-        "medium": 10,
+        "medium": 11,
         "hard": 1
     },
     "languages": {
-        "cpp": 23
+        "cpp": 24
     },
     "latest": {
-        "number": "1464",
-        "title": "Maximum Product of Two Elements in an Array",
-        "difficulty": "Easy",
+        "number": "3517",
+        "title": "Smallest Palindromic Rearrangement I",
+        "difficulty": "Medium",
         "language": "cpp",
-        "folder": "1464_Maximum_Product_of_Two_Elements_in_an_Array"
+        "folder": "3517_Smallest_Palindromic_Rearrangement_I"
     },
     "problems": [
         {
@@ -156,6 +156,13 @@
             "difficulty": "Medium",
             "language": "cpp",
             "folder": "3499_Maximize_Active_Section_with_Trade_I"
+        },
+        {
+            "number": 3517,
+            "title": "Smallest Palindromic Rearrangement I",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "3517_Smallest_Palindromic_Rearrangement_I"
         },
         {
             "number": 3536,
