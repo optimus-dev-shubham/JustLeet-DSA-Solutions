@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 24,
-        "easy": 12,
+        "total": 25,
+        "easy": 13,
         "medium": 11,
         "hard": 1
     },
     "languages": {
-        "cpp": 24
+        "cpp": 25
     },
     "latest": {
-        "number": "3517",
-        "title": "Smallest Palindromic Rearrangement I",
-        "difficulty": "Medium",
+        "number": "3014",
+        "title": "Minimum Number of Pushes to Type Word I",
+        "difficulty": "Easy",
         "language": "cpp",
-        "folder": "3517_Smallest_Palindromic_Rearrangement_I"
+        "folder": "3014_Minimum_Number_of_Pushes_to_Type_Word_I"
     },
     "problems": [
         {
@@ -149,6 +149,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "1979_Find_Greatest_Common_Divisor_of_Array"
+        },
+        {
+            "number": 3014,
+            "title": "Minimum Number of Pushes to Type Word I",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "3014_Minimum_Number_of_Pushes_to_Type_Word_I"
         },
         {
             "number": 3499,
