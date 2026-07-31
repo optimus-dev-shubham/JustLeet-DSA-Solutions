@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1785391694975" width="100%"/>
+<img src="./assets/difficulty.svg?v=1785478406194" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-25-2F81F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-26-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-## 3014. Minimum Number of Pushes to Type Word I
+## 3016. Minimum Number of Pushes to Type Word II
 
-![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
 </div>
 
@@ -67,6 +67,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](./1464_Maximum_Product_of_Two_Elements_in_an_Array) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 1979 | [Find Greatest Common Divisor of Array](./1979_Find_Greatest_Common_Divisor_of_Array) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014_Minimum_Number_of_Pushes_to_Type_Word_I) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
+| 3016 | [Minimum Number of Pushes to Type Word II](./3016_Minimum_Number_of_Pushes_to_Type_Word_II) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3499 | [Maximize Active Section with Trade I](./3499_Maximize_Active_Section_with_Trade_I) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517_Smallest_Palindromic_Rearrangement_I) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3536 | [Maximum Product of Two Digits](./3536_Maximum_Product_of_Two_Digits) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
