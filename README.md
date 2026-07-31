@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1785478814861" width="100%"/>
+<img src="./assets/difficulty.svg?v=1785498861706" width="100%"/>
 
 </div>
 
