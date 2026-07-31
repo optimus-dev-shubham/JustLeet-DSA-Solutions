@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1785478406194" width="100%"/>
+<img src="./assets/difficulty.svg?v=1785478456362" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-26-2F81F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-27-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-## 3016. Minimum Number of Pushes to Type Word II
+## 1260. Shift 2D Grid
 
-![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
 </div>
 
@@ -62,6 +62,7 @@
 | 289 | [Game of Life](./0289_Game_of_Life) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 349 | [Intersection of Two Arrays](./0349_Intersection_of_Two_Arrays) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 628 | [Maximum Product of Three Numbers](./0628_Maximum_Product_of_Three_Numbers) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
+| 1260 | [Shift 2D Grid](./1260_Shift_2D_Grid) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 1291 | [Sequential Digits](./1291_Sequential_Digits) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 1331 | [Rank Transform of an Array](./1331_Rank_Transform_of_an_Array) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464_Maximum_Product_of_Two_Elements_in_an_Array) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
