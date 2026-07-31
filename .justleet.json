@@ -10,11 +10,11 @@
         "cpp": 27
     },
     "latest": {
-        "number": "1260",
-        "title": "Shift 2D Grid",
-        "difficulty": "Easy",
+        "number": "3016",
+        "title": "Minimum Number of Pushes to Type Word II",
+        "difficulty": "Medium",
         "language": "cpp",
-        "folder": "1260_Shift_2D_Grid"
+        "folder": "3016_Minimum_Number_of_Pushes_to_Type_Word_II"
     },
     "problems": [
         {
