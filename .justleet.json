@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 25,
+        "total": 26,
         "easy": 13,
-        "medium": 11,
+        "medium": 12,
         "hard": 1
     },
     "languages": {
-        "cpp": 25
+        "cpp": 26
     },
     "latest": {
-        "number": "3014",
-        "title": "Minimum Number of Pushes to Type Word I",
-        "difficulty": "Easy",
+        "number": "3016",
+        "title": "Minimum Number of Pushes to Type Word II",
+        "difficulty": "Medium",
         "language": "cpp",
-        "folder": "3014_Minimum_Number_of_Pushes_to_Type_Word_I"
+        "folder": "3016_Minimum_Number_of_Pushes_to_Type_Word_II"
     },
     "problems": [
         {
@@ -156,6 +156,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "3014_Minimum_Number_of_Pushes_to_Type_Word_I"
+        },
+        {
+            "number": 3016,
+            "title": "Minimum Number of Pushes to Type Word II",
+            "difficulty": "Medium",
+            "language": "cpp",
+            "folder": "3016_Minimum_Number_of_Pushes_to_Type_Word_II"
         },
         {
             "number": 3499,
