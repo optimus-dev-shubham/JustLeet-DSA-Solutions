@@ -1,25 +1,20 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        // Frequency vector to store count of each letter
-        vector<int> frequency(26, 0);
+        vector<int> freq(26, 0);
 
-        // Count occurrences of each letter
-        for (char& c : word) {
-            ++frequency[c - 'a'];
+        for (char c : word) {
+            freq[c - 'a']++;
         }
 
-        // Sort frequencies in descending order
-        sort(frequency.rbegin(), frequency.rend());
+        sort(freq.rbegin(), freq.rend());
 
-        int totalPushes = 0;
+        int req_taps = 0;
 
-        // Calculate total number of presses
-        for (int i = 0; i < 26; ++i) {
-            if (frequency[i] == 0) break;
-            totalPushes += (i / 8 + 1) * frequency[i];
+        for (int i = 0; i < 26; i++) {
+            req_taps += (i / 8 + 1) * freq[i];
         }
 
-        return totalPushes;
+        return req_taps;
     }
 };
