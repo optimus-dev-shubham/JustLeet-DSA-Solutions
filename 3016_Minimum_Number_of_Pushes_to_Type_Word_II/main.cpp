@@ -1,25 +1,25 @@
 class Solution {
 public:
-    vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
-        if (!k) return grid;
-        int r = grid.size(), c = grid[0].size();
-        int n = r * c;
+    int minimumPushes(string word) {
+        // Frequency vector to store count of each letter
+        vector<int> frequency(26, 0);
 
-        k = k % n;
-        if (!k) return grid;
+        // Count occurrences of each letter
+        for (char& c : word) {
+            ++frequency[c - 'a'];
+        }
 
-        auto shift = [&](int i, int j) {
-            while (i < j) {
-                swap(grid[i / c][i % c], grid[j / c][j % c]);
-                i++;
-                j--;
-            }
-        };
+        // Sort frequencies in descending order
+        sort(frequency.rbegin(), frequency.rend());
 
-        shift(0, n - 1);
-        shift(0, k - 1);
-        shift(k, n - 1);
+        int totalPushes = 0;
 
-        return grid;
+        // Calculate total number of presses
+        for (int i = 0; i < 26; ++i) {
+            if (frequency[i] == 0) break;
+            totalPushes += (i / 8 + 1) * frequency[i];
+        }
+
+        return totalPushes;
     }
 };
