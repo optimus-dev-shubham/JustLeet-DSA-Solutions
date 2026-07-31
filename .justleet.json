@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 26,
-        "easy": 13,
+        "total": 27,
+        "easy": 14,
         "medium": 12,
         "hard": 1
     },
     "languages": {
-        "cpp": 26
+        "cpp": 27
     },
     "latest": {
-        "number": "3016",
-        "title": "Minimum Number of Pushes to Type Word II",
-        "difficulty": "Medium",
+        "number": "1260",
+        "title": "Shift 2D Grid",
+        "difficulty": "Easy",
         "language": "cpp",
-        "folder": "3016_Minimum_Number_of_Pushes_to_Type_Word_II"
+        "folder": "1260_Shift_2D_Grid"
     },
     "problems": [
         {
@@ -121,6 +121,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "0628_Maximum_Product_of_Three_Numbers"
+        },
+        {
+            "number": 1260,
+            "title": "Shift 2D Grid",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "1260_Shift_2D_Grid"
         },
         {
             "number": 1291,
