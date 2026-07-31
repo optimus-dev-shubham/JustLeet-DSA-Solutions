@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1785478456362" width="100%"/>
+<img src="./assets/difficulty.svg?v=1785478814861" width="100%"/>
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-## 1260. Shift 2D Grid
+## 3016. Minimum Number of Pushes to Type Word II
 
-![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
 </div>
 
