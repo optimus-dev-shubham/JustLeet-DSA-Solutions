@@ -1,20 +1,20 @@
 {
     "version": "1.0",
     "stats": {
-        "total": 29,
-        "easy": 15,
+        "total": 30,
+        "easy": 16,
         "medium": 13,
         "hard": 1
     },
     "languages": {
-        "cpp": 29
+        "cpp": 30
     },
     "latest": {
-        "number": "441",
-        "title": "Arranging Coins",
+        "number": "3731",
+        "title": "Find Missing Elements",
         "difficulty": "Easy",
         "language": "cpp",
-        "folder": "0441_Arranging_Coins"
+        "folder": "3731_Find_Missing_Elements"
     },
     "problems": [
         {
@@ -212,6 +212,13 @@
             "difficulty": "Easy",
             "language": "cpp",
             "folder": "3658_GCD_of_Odd_and_Even_Sums"
+        },
+        {
+            "number": 3731,
+            "title": "Find Missing Elements",
+            "difficulty": "Easy",
+            "language": "cpp",
+            "folder": "3731_Find_Missing_Elements"
         },
         {
             "number": 3867,
