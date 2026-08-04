@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="./assets/difficulty.svg?v=1785578877945" width="100%"/>
+<img src="./assets/difficulty.svg?v=1785844972760" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-29-2F81F7?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-30-2F81F7?style=for-the-badge)
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 441. Arranging Coins
+## 3731. Find Missing Elements
 
 ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square)
 
@@ -75,6 +75,7 @@
 | 3517 | [Smallest Palindromic Rearrangement I](./3517_Smallest_Palindromic_Rearrangement_I) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3536 | [Maximum Product of Two Digits](./3536_Maximum_Product_of_Two_Digits) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3658 | [GCD of Odd and Even Sums](./3658_GCD_of_Odd_and_Even_Sums) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
+| 3731 | [Find Missing Elements](./3731_Find_Missing_Elements) | ![Easy](https://img.shields.io/badge/Easy-1cbaba?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 | 3867 | [Sum of GCD of Formed Pairs](./3867_Sum_of_GCD_of_Formed_Pairs) | ![Medium](https://img.shields.io/badge/Medium-ffb700?style=flat-square) | ![C++](https://img.shields.io/badge/C++-2F81F7?style=flat-square) |
 
 </div>
